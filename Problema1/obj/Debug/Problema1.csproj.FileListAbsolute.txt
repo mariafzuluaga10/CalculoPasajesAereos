@@ -1,0 +1,7 @@
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\bin\Debug\Problema1.exe.config
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\bin\Debug\Problema1.exe
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\bin\Debug\Problema1.pdb
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\obj\Debug\Problema1.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\obj\Debug\Problema1.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\obj\Debug\Problema1.exe
+C:\Users\HP\Documents\Ingeniería de Sistemas UNAD\Segundo Semestre 2024-1\Fundamentos en Programación UNAD\Unidad 1 Paso 2\Problema1\Problema1\obj\Debug\Problema1.pdb
